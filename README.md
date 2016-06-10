@@ -1,4 +1,7 @@
-# Battle
+Battle Challenge
+
+
+# Battle - User Stories
 
 As two Players,
 So we can play a personalised game of Battle,
